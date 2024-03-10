@@ -1,0 +1,28 @@
+C:\Users\Dell\source\repos\VP_Project\VP_Project\bin\Debug\VP_Project.exe.config
+C:\Users\Dell\source\repos\VP_Project\VP_Project\bin\Debug\VP_Project.exe
+C:\Users\Dell\source\repos\VP_Project\VP_Project\bin\Debug\VP_Project.pdb
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.DoWhile.resources
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.FoorLoop.resources
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.MainTempForm.resources
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.Properties.Resources.resources
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.WhileLoop.resources
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.csproj.GenerateResource.Cache
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.exe
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.pdb
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\VP_Project\VP_Project\obj\Debug\VP_Project.VP_Project.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\bin\Debug\VP_Project.exe.config
+D:\C++ projects\VP_Project\Tehaam\VP_Project\bin\Debug\VP_Project.exe
+D:\C++ projects\VP_Project\Tehaam\VP_Project\bin\Debug\VP_Project.pdb
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.csproj.AssemblyReference.cache
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.DoWhile.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.FoorLoop.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.MainTempForm.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.VP_Project.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.Properties.Resources.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.WhileLoop.resources
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.csproj.GenerateResource.cache
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.csproj.CoreCompileInputs.cache
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.exe
+D:\C++ projects\VP_Project\Tehaam\VP_Project\obj\Debug\VP_Project.pdb
